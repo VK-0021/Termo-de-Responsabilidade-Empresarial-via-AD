@@ -27,9 +27,9 @@ Quando qualquer um desses elementos muda, um novo aceite é solicitado.
 | [Implantação](docs/03-implantacao.md) | Preparação do servidor, DNS, TLS e aplicação |
 | [Distribuição por GPO](docs/04-gpo.md) | Piloto, filtros, validação e expansão |
 | [Operação](docs/05-operacao.md) | Rotinas administrativas e publicação de termos |
-| [Segurança e privacidade](docs/06-seguranca-privacidade.md) | Controles, dados pessoais e prevenção de vazamentos |
+| [Seguranca e privacidade](docs/06-seguranca-privacidade.md) | Controles, dados pessoais e prevenção de vazamentos |
 | [Backup e recuperação](docs/07-backup-recuperacao.md) | Cópia, restauração e continuidade |
-| [Solução de problemas](docs/08-troubleshooting.md) | Diagnósticos e comandos de verificação |
+| [Solucao de problemas](docs/08-troubleshooting.md) | Diagnósticos e comandos de verificação |
 | [Histórico técnico](docs/09-historico-tecnico.md) | Funcionalidades e decisões implantadas |
 
 ## Estado atual da solução
