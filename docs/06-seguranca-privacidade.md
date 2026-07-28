@@ -1,4 +1,4 @@
-# Segurança
+# Segurança e privacidade
 
 ## Dados tratados
 
